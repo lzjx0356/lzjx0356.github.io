@@ -1,2 +1,2 @@
 # username.github.io
-blog
+my blog
